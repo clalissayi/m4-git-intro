@@ -11,6 +11,6 @@ The purpose of this exercise is to practice the steps you'll need to use in futu
 7. Push changes up to GitHub
 
 # breakfast
-*Avocado
-*Toast
-*Raspberries
+* Avocado
+* Toast
+* Raspberries
